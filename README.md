@@ -1,2 +1,2 @@
 # ztnproject
-Luke My Blog: https://ztncoding.blogspot.com/
+Luke My Blog: https://www.ztncode.my.id/
