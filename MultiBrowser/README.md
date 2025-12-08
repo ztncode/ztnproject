@@ -11,6 +11,10 @@ Aplikasi browser multi-tab yang ringan dan cepat untuk berbagai kebutuhan browsi
 - **Mode incognito** - Browsing privat tanpa menyimpan history
 - **Ringan & cepat** - Optimalkan penggunaan RAM dan CPU
 
+## Demo Aplikasi
+
+[![Tutorial Demo](https://img.youtube.com/vi/7HcRMZ7fnxU/0.jpg)](https://youtu.be/7HcRMZ7fnxU)
+
 ## 📥 Download Aplikasi
 
 ### Android Requirements
