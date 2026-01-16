@@ -26,7 +26,7 @@ Aplikasi ini merupakan solusi lengkap untuk melindungi kode sumber program Anda 
 - RAM minimal 2GB
 
 ### Link Download Google Drive
-- [Download APK v1.0.2](https://drive.google.com/uc?export=download&id=1j1Ymb8ATT8VQHLNAyL5Upfsb1wc-8PUe)
+- [Download APK v1.0.2](https://drive.google.com/uc?export=download&id=1WbMmd61JWluL8wXR5TYeiaYDTOay08_6)
 
 ### Cara Install Android
 1. Download file APK dari link di atas
@@ -75,3 +75,16 @@ Aplikasi ini merupakan solusi lengkap untuk melindungi kode sumber program Anda 
 - **Performance: Minimal overhead pada runtime kode**
 
 **Aplikasi Enkripsi Code** adalah perlindungan essential untuk developer di era digital dimana keamanan kode sumber menjadi aset berharga yang harus dijaga dengan teknologi terbaik.
+
+## ⚠️ Status Pengembangan
+Perlu diketahui bahwa aplikasi Multi Browser saat ini masih dalam **tahap pengembangan aktif**. Anda mungkin akan menemui beberapa bug atau fitur yang belum sempurna.
+
+Kami sangat menghargai **laporan bug dan masukan** dari pengguna. Setiap feedback akan membantu kami meningkatkan kualitas aplikasi untuk update-update selanjutnya.
+
+**Cara melaporkan bug:**
+1. Buka Issues di repository ini
+2. Jelaskan masalah secara detail
+3. Sertakan screenshot jika memungkinkan
+4. Sebutkan versi aplikasi dan perangkat
+
+Terima kasih atas dukungan dan pengertiannya! 🙏
