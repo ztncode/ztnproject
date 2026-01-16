@@ -5,36 +5,26 @@ Aplikasi ini merupakan solusi lengkap untuk melindungi kode sumber program Anda 
 🔐 1. Enkripsi AES-128 dengan Password
 - **Enkripsi Standar Militer:** - Menggunakan algoritma AES-128 (Advanced Encryption Standard) yang telah teruji dan diakui secara internasional
 - **Proteksi Berbasis Password:** - Setiap enkripsi dilindungi dengan password kustom pengguna
-
-Keamanan Tingkat Tinggi: Mode operasi CBC (Cipher Block Chaining) dengan IV (Initialization Vector) acak untuk setiap enkripsi
-
-Multi-Format Support: Mendukung berbagai bahasa pemrograman (Python, JavaScript, Java, C++, PHP, dll)
-
-Batch Processing: Dapat mengenkripsi beberapa file sekaligus dalam satu proses
+- **Keamanan Tingkat Tinggi:** - Mode operasi CBC (Cipher Block Chaining) dengan IV (Initialization Vector) acak untuk setiap enkripsi
+- **Multi-Format Support:** - Mendukung berbagai bahasa pemrograman (Python, JavaScript, Java, C++, PHP, dll)
+- **Batch Processing:** - Dapat mengenkripsi beberapa file sekaligus dalam satu proses
 
 🛡️ 2. Fitur Obfuscator Canggih
-Renaming Obfuscation: Mengganti nama variabel, fungsi, dan kelas dengan karakter acak
+- **Renaming Obfuscation:** - Mengganti nama variabel, fungsi, dan kelas dengan karakter acak
+- **Control Flow Flattening:** - Mengubah struktur kontrol program menjadi lebih kompleks
+- **String Encryption:** - Menyembunyikan string literal dalam kode
+- **Dead Code Injection:** - Menambahkan kode tidak berguna yang tidak mempengaruhi logika program
+- **Metadata Removal:** - Menghapus komentar, spasi berlebihan, dan informasi debugging
 
-Control Flow Flattening: Mengubah struktur kontrol program menjadi lebih kompleks
-
-String Encryption: Menyembunyikan string literal dalam kode
-
-Dead Code Injection: Menambahkan kode tidak berguna yang tidak mempengaruhi logika program
-
-Metadata Removal: Menghapus komentar, spasi berlebihan, dan informasi debugging
-
-Manfaat Penggunaan:
+## Manfaat Penggunaan:
 🚀 Untuk Developer:
-Lindungi algoritma proprietary dari reverse engineering
-
-Amankan kode sensitif sebelum dibagikan kepada pihak ketiga
-
-Tambahkan lapisan keamanan ekstra pada produk digital
-
-Memenuhi persyaratan keamanan untuk distribusi kode
+- **Lindungi algoritma proprietary dari reverse engineering**
+- **Amankan kode sensitif sebelum dibagikan kepada pihak ketiga**
+- **Tambahkan lapisan keamanan ekstra pada produk digital**
+- **Memenuhi persyaratan keamanan untuk distribusi kode**
 
 ⚡ Kemudahan Penggunaan:
-Antarmuka pengguna yang intuitif (GUI dan CLI)
+- **Antarmuka pengguna yang intuitif (GUI dan CLI)**
 
 Proses enkripsi/dekripsi cepat dengan progress indicator
 
