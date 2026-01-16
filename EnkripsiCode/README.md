@@ -1,6 +1,9 @@
 # Aplikasi Enkripsi Code
 Aplikasi ini merupakan solusi lengkap untuk melindungi kode sumber program Anda dengan dua lapis keamanan canggih: enkripsi AES-128 dan teknik obfuskasi kode. Dirancang khusus untuk developer yang memprioritaskan keamanan intelektual properti koding mereka.
 
+!Enkripsi Code Apk Preview<br>
+<img src="https://raw.githubusercontent.com/ztncode/ztnproject/refs/heads/main/EnkripsiCode/Screenshot/Screenshot_2026-01-15-20-29-53-89.jpg" width="300" alt="Enkripsi Code"/>
+
 ## Fitur Utama:
 🔐 1. Enkripsi AES-128 dengan Password
 - **Enkripsi Standar Militer:** - Menggunakan algoritma AES-128 (Advanced Encryption Standard) yang telah teruji dan diakui secara internasional
