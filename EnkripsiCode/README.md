@@ -15,7 +15,23 @@ Aplikasi ini merupakan solusi lengkap untuk melindungi kode sumber program Anda 
 - **String Encryption:** - Menyembunyikan string literal dalam kode
 - **Dead Code Injection:** - Menambahkan kode tidak berguna yang tidak mempengaruhi logika program
 - **Metadata Removal:** - Menghapus komentar, spasi berlebihan, dan informasi debugging
+  
+## 📥 Download Aplikasi
 
+### Android Requirements
+- Android 7.0 atau lebih tinggi
+- RAM minimal 2GB
+
+### Link Download Google Drive
+- [Download APK v1.0.2](https://drive.google.com/uc?export=download&id=1j1Ymb8ATT8VQHLNAyL5Upfsb1wc-8PUe)
+
+### Cara Install Android
+1. Download file APK dari link di atas
+2. Buka file APK yang sudah didownload
+3. Izinkan instalasi dari sumber tidak dikenal (jika diminta)
+4. Ikuti petunjuk instalasi
+5. Buka aplikasi dan mulai browsing!
+   
 ## Manfaat Penggunaan:
 🚀 Untuk Developer:
 - **Lindungi algoritma proprietary dari reverse engineering**
@@ -40,7 +56,7 @@ Aplikasi ini merupakan solusi lengkap untuk melindungi kode sumber program Anda 
 - **Cross-platform Compatibility:** Berjalan di Windows, macOS, dan Linux
 - **Modular Architecture:** Mudah dikembangkan dengan fitur tambahan
 
-# Skema Keamanan:
+### Skema Keamanan:
 ```Kode Asli → Obfuskasi (Lapisan 1) → Enkripsi AES-128 (Lapisan 2) → Kode Terproteksi```
 
 ## Target Pengguna:
