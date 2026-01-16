@@ -1,7 +1,7 @@
-Aplikasi Enkripsi & Obfuskasi Kode Sumber
+# Aplikasi Enkripsi Code
 Aplikasi ini merupakan solusi lengkap untuk melindungi kode sumber program Anda dengan dua lapis keamanan canggih: enkripsi AES-128 dan teknik obfuskasi kode. Dirancang khusus untuk developer yang memprioritaskan keamanan intelektual properti koding mereka.
 
-Fitur Utama:
+## Fitur Utama:
 🔐 1. Enkripsi AES-128 dengan Password
 Enkripsi Standar Militer: Menggunakan algoritma AES-128 (Advanced Encryption Standard) yang telah teruji dan diakui secara internasional
 
