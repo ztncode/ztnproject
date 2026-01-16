@@ -25,50 +25,34 @@ Aplikasi ini merupakan solusi lengkap untuk melindungi kode sumber program Anda 
 
 ⚡ Kemudahan Penggunaan:
 - **Antarmuka pengguna yang intuitif (GUI dan CLI)**
-
-Proses enkripsi/dekripsi cepat dengan progress indicator
-
-Preserve original functionality - kode tetap berjalan normal setelah diproses
-
-Log aktivitas lengkap untuk pelacakan proses
+- **Proses enkripsi/dekripsi cepat dengan progress indicator**
+- **Preserve original functionality - kode tetap berjalan normal setelah diproses**
 
 🔄 Workflow Lengkap:
-Pilih File - Pilih file kode sumber Anda
+- **Pilih File - Pilih file kode sumber Anda**
+- **Konfigurasi - Atur parameter enkripsi dan obfuskasi**
+- **Proses - Jalankan enkripsi dan obfuskasi dengan satu klik**
+- **Verifikasi - Uji kode yang telah diproses memastikan fungsionalitas tetap utuh**
 
-Konfigurasi - Atur parameter enkripsi dan obfuskasi
+## Teknologi yang Digunakan:
+- **Cryptography Library:** Implementasi AES-128 yang aman dan optimal
+- **Multi-threading Processing:** Untuk kinerja yang cepat bahkan dengan file besar
+- **Cross-platform Compatibility:** Berjalan di Windows, macOS, dan Linux
+- **Modular Architecture:** Mudah dikembangkan dengan fitur tambahan
 
-Proses - Jalankan enkripsi dan obfuskasi dengan satu klik
-
-Verifikasi - Uji kode yang telah diproses memastikan fungsionalitas tetap utuh
-
-Teknologi yang Digunakan:
-Cryptography Library: Implementasi AES-128 yang aman dan optimal
-
-Multi-threading Processing: Untuk kinerja yang cepat bahkan dengan file besar
-
-Cross-platform Compatibility: Berjalan di Windows, macOS, dan Linux
-
-Modular Architecture: Mudah dikembangkan dengan fitur tambahan
-
-Skema Keamanan:
-text
+## Skema Keamanan:
 Kode Asli → Obfuskasi (Lapisan 1) → Enkripsi AES-128 (Lapisan 2) → Kode Terproteksi
-Target Pengguna:
-Developer software komersial
 
-Perusahaan startup teknologi
+## Target Pengguna:
+- **Developer software komersial**
+- **Perusahaan startup teknologi**
+- **Freelancer yang membagikan kode ke klien**
+- **Institusi pendidikan untuk melindungi materi pengajaran**
+- **Tim development yang berkolaborasi dengan pihak eksternal**
 
-Freelancer yang membagikan kode ke klien
+## Spesifikasi Teknis:
+- **Format Output: File terenkripsi dengan ekstensi khusus atau file terobfuskasi**
+- **Kompatibilitas: Mendukung file teks biasa dan skrip berbagai bahasa**
+- **Performance: Minimal overhead pada runtime kode**
 
-Institusi pendidikan untuk melindungi materi pengajaran
-
-Tim development yang berkolaborasi dengan pihak eksternal
-
-Spesifikasi Teknis:
-Format Output: File terenkripsi dengan ekstensi khusus atau file terobfuskasi
-
-Kompatibilitas: Mendukung file teks biasa dan skrip berbagai bahasa
-
-Performance: Minimal overhead pada runtime kode
-
-Aplikasi Enkripsi Code adalah perlindungan essential untuk developer di era digital dimana keamanan kode sumber menjadi aset berharga yang harus dijaga dengan teknologi terbaik.
+**Aplikasi Enkripsi Code** adalah perlindungan essential untuk developer di era digital dimana keamanan kode sumber menjadi aset berharga yang harus dijaga dengan teknologi terbaik.
