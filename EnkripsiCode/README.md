@@ -40,8 +40,8 @@ Aplikasi ini merupakan solusi lengkap untuk melindungi kode sumber program Anda 
 - **Cross-platform Compatibility:** Berjalan di Windows, macOS, dan Linux
 - **Modular Architecture:** Mudah dikembangkan dengan fitur tambahan
 
-```Skema Keamanan:
-Kode Asli → Obfuskasi (Lapisan 1) → Enkripsi AES-128 (Lapisan 2) → Kode Terproteksi```
+#Skema Keamanan:
+```Kode Asli → Obfuskasi (Lapisan 1) → Enkripsi AES-128 (Lapisan 2) → Kode Terproteksi```
 
 ## Target Pengguna:
 - **Developer software komersial**
