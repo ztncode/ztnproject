@@ -3,7 +3,7 @@ Aplikasi ini merupakan solusi lengkap untuk melindungi kode sumber program Anda 
 
 ## Fitur Utama:
 🔐 1. Enkripsi AES-128 dengan Password
-Enkripsi Standar Militer: Menggunakan algoritma AES-128 (Advanced Encryption Standard) yang telah teruji dan diakui secara internasional
+** Enkripsi Standar Militer: ** Menggunakan algoritma AES-128 (Advanced Encryption Standard) yang telah teruji dan diakui secara internasional
 
 Proteksi Berbasis Password: Setiap enkripsi dilindungi dengan password kustom pengguna
 
