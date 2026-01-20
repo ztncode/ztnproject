@@ -10,6 +10,6 @@ Lewati Jika sudah di install
 
 ## Install
 1. git clone https://github.com/ztncode/ztnproject.git
-2. cd NAMA_REPO
+2. cd chat
 3. pip install -r requirements.txt
 4. python chat_script.py
