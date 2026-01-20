@@ -9,7 +9,9 @@ Aplikasi chatting berbasis terminal (Termux).
 Lewati Jika sudah di install
 
 ## Install
-1. git clone https://github.com/ztncode/ztnproject.git
-2. cd chat
-3. pip install -r requirements.txt
-4. python chat_script.py
+1. pip install requests
+2. pip install rich requests
+3. git clone https://github.com/ztncode/ztnproject.git
+4. cd ztnproject
+5. cd chat
+6. python chat_script.py
