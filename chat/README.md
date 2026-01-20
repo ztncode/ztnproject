@@ -1,8 +1,8 @@
 # Termux Cloud Chat
 Aplikasi chatting berbasis terminal (Termux).
 ## Pertama Install
-1. pkg install update
-2. pkg install upgrade
+1. pkg update
+2. pkg upgrade
 3. pkg install git
 4. pkg install python
 Lewati Jika sudah di install
