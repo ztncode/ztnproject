@@ -1,9 +1,10 @@
 # Termux Cloud Chat
-Aplikasi chatting berbasis terminal.
+Aplikasi chatting berbasis terminal (Termux).
 
 ## Cara Install
-1. pkg install python
-2. git clone https://github.com/ztncode/chat_script.git
-3. cd NAMA_REPO
-4. pip install -r requirements.txt
-5. python chat_script.py
+1. pkg install git
+2. pkg install python
+3. git clone https://github.com/ztncode/ztnproject.git
+4. cd NAMA_REPO
+5. pip install -r requirements.txt
+6. python chat_script.py
