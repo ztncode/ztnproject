@@ -5,6 +5,7 @@ Aplikasi chatting berbasis terminal (Termux).
 2. pkg upgrade
 3. pkg install git
 4. pkg install python
+   
 Lewati Jika sudah di install
 
 ## Install
