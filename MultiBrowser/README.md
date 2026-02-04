@@ -22,6 +22,7 @@ Aplikasi browser multi-tab yang ringan dan cepat untuk berbagai kebutuhan browsi
 - RAM minimal 2GB
 
 ### Link Download Google Drive
+- [Download APK v1.0.3](https://drive.google.com/uc?export=download&id=12OY3FYM6w3wxy-6yK2WprwiwqEHNVPY-)
 - [Download APK v1.2.0](https://drive.google.com/uc?export=download&id=1j1Ymb8ATT8VQHLNAyL5Upfsb1wc-8PUe)
 
 ### Cara Install Android
